@@ -67,6 +67,6 @@ highlight_name: false
 
 I am an incoming Masters student at UC San Diego, where I will be studying Computer Science with a specialisation in Artificial Intelligence.
 
-I completed my Bachelor's Degree (B.Tech) with Honours in Computer Engineering at College of Engineering Pune, India in 2020. On graduation I was felicitated as the Institute Topper and the Computer Engineering branch Gold Medallist. During the course of my undergraduate degree, I worked on multiple research projects which led me to explore my interests in Artificial Intelligence, particularly in Deep Learning. I aim to study the field further in depth during my Master's program.
+I completed my Bachelor's Degree (B.Tech) with Honours in Computer Engineering at College of Engineering Pune, India in 2020. On graduation I was felicitated as the Institute Topper and the Computer Engineering branch Gold Medallist. 
 
 Outside of work, I am a history, geography, political science, paperbacks, and Indian culture enthusisast who has recently discovered her fondness for yoga and hiking. 
