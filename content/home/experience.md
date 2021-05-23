@@ -30,7 +30,6 @@ experience:
     date_start: '2020-12-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
         * Working on developing AI models for data mining and data analytics applications
         * Currently working on implementing supervised and unsupervised models for event extraction from textual data
