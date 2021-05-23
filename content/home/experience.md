@@ -29,15 +29,13 @@ experience:
     location: Mumbai, India
     date_start: '2020-12-01'
     date_end: ''
-    description: ''
-- title: Artificial Intelligence Research Intern
-  company: Bharatrath, India
-  company_url: ''
-  company_logo: ''
-  location: Pune, India
-  date_start: '2020-05-01'
-  date_end: '2020-11-01'
-  description: ''
+    description: |2-
+    Responsibilities include:
+    
+    * Analysing
+    * Modelling
+    * Deploying
+
         
 design:
   columns: '2'
