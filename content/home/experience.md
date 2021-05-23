@@ -43,8 +43,8 @@ experience:
     date_end: '2020-11-01'
     description:  |2-
            
-           * Worked on developing and deploying a chatbot to handle customer orders, perform spellcheck and product matching, process quantities, and generate bill
-           * Employed various NLP techniques for the task
+        * Worked on developing and deploying a chatbot to handle customer orders, perform spellcheck and process quantities, and generate bill
+        * Employed various NLP techniques for the task
 
 design:
   columns: '2'
