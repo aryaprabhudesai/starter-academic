@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: B.Tech (Honours) in Computer Engineering
-    institution: College of Engineering Pune
+    institution: College of Engineering Pune (CGPA : 9.84 / 10, Gold Medallist)
     year: 2020
 
 # Social/Academic Networking
