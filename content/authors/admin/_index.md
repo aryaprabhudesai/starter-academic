@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.Tech (Honours) in Computer Engineering
+  - course: B.Tech (Honours) in Computer Engineering (CGPA: 9.84/10)
     institution: College of Engineering Pune
     year: 2020
 
