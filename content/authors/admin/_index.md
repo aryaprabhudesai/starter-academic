@@ -69,5 +69,4 @@ I am an incoming Masters student at UC San Diego, where I will be studying Compu
 
 I completed my Bachelor's Degree (B.Tech) with Honours in Computer Engineering at College of Engineering Pune, India in 2020. On graduation I was felicitated as the Institute Topper and the Computer Engineering branch Gold Medallist. During the course of my undergraduate degree, I worked on multiple research projects which led me to explore my interests in Artificial Intelligence, particularly in Deep Learning. I aim to study the field further in depth during my Master's program.
 
-Outside of work, I am a history, geography, political science, and Indian culture enthusisast who has recently discovered her fondness for yoga and hiking. I am a staunch supporter of paperbacks but have been trying to adapt to digital reading.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/AryaPrabhudesai_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Outside of work, I am a history, geography, political science, paperbacks, and Indian culture enthusisast who has recently discovered her fondness for yoga and hiking. 
