@@ -46,30 +46,31 @@ experience:
         * Worked on developing and deploying a chatbot to handle customer orders, perform spellcheck and process quantities, and generate bills
         * Employed various NLP techniques for the task
 
-  - title: Data and AI Specialist
-    company: Signpost India
+  - title: Research Assistant
+    company: Nanyang Technological University
     company_url: ''
     company_logo: ''
-    location: Mumbai, India
-    date_start: '2020-12-01'
-    date_end: ''
+    location: Singapore
+    date_start: '2019-05-01'
+    date_end: '2019-07-19'
     description: |2-
       
-        * Working on developing AI models for data mining and data analytics applications
-        * Currently working on implementing supervised and unsupervised models for event extraction from textual data
+        * Worked on developing an Automatic Short Answer Grading (ASAG) System using Deep Learning techniques.
+        * Research paper presented and published at the IEEE TALE 2019
+
       
-  - title: Artificial Intelligence Research Intern
-    company: Bharatrath, India
+  - title: Deep Learning Research Intern
+    company: Mobiliya Technologies
     company_url: ''
     company_logo: ''
     location: Pune, India
-    date_start: '2020-05-01'
-    date_end: '2020-11-01'
+    date_start: '2018-05-01'
+    date_end: '2018-07-01'
     description:  |2-
          
-        * Worked on developing and deploying a chatbot to handle customer orders, perform spellcheck and process quantities, and generate bills
-        * Employed various NLP techniques for the task
+        * Worked on developing and implementing language models and libraries for Indian regional languages. Developed a Document Ranking system for Hindi using Deep Learning.
+        *  Research paper presented and published at the IBICA-WICT 2018
 
 design:
-  columns: '4'
+  columns: '2'
 ---
