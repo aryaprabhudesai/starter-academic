@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: Mumbai, India
-    date_start: Dec 2020
+    date_start: '2020-15-12'
     date_end: ''
     description: |2-
         Responsibilities include:
