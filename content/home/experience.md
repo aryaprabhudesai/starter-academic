@@ -30,12 +30,19 @@ experience:
     date_start: '2020-12-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+     Developing AI models for data mining and data analytics applications.
+     Currently working on implementing supervised and unsupervised models for event extraction from textual data
+
+- title: Artificial Intelligence Research Intern
+   company: Bharatrath, India
+   company_url: ''
+   company_logo: ''
+   location: Pune, India
+   date_start: '2020-05-01'
+   date_end: '2020-11-01'
+   description: |2-
+    Worked on developing and deploying a chatbot to handle customer orders, perform spellcheck and product matching, process quantities, and generate bill
+    Employed Natural Language Processing techniques for the task
 
 design:
   columns: '2'
