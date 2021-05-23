@@ -46,28 +46,6 @@ experience:
         * Worked on developing and deploying a chatbot to handle customer orders, perform spellcheck and process quantities, and generate bills
         * Employed various NLP techniques for the task
 
- - title: Research Assistant
-   company: Nanyang Technological University
-   company_url: ''
-   company_logo: ''
-   location: Singapore
-   date_start: '2019-05-01'
-   date_end: '2019-07-01'
-   description:  |2-
-         
-       * Worked on developing an Automatic Short Answer Grading (ASAG) System using Deep Learning techniques. Research paper presented and published at the IEEE TALE 2019
-
- - title: Deep Learning Research Intern
-   company: Mobiliya Technologies
-   company_url: ''
-   company_logo: ''
-   location: Pune, India
-   date_start: '2018-05-01'
-   date_end: '2018-07-01'
-   description:  |2-
-
-       * Worked on developing and implementing language models and libraries for Indian regional languages. Developed a Document Ranking system for Hindi using Deep Learning. Research paper presented and published at the IBICA-WICT 2018
-
 design:
-  columns: '4'
+  columns: '2'
 ---
