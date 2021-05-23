@@ -71,5 +71,5 @@ experience:
       * Employed various NLP techniques for the task
 
 design:
-  columns: '2'
+  columns: '4'
 ---
