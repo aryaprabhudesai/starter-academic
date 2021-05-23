@@ -34,8 +34,6 @@ experience:
         
         * Developing AI models for data mining and data analytics applications.
         *  Currently working on implementing supervised and unsupervised models for event extraction from textual data
-
-
 - title: Artificial Intelligence Research Intern
   company: Bharatrath, India
   company_url: ''
