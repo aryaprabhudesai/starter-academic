@@ -12,7 +12,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2018-12-17T00:00:00Z"
-doi: "2019-05-21"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -43,13 +43,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-16681-6_28'
-url_code: ''
-url_dataset: ''
-url_poster: ''
 url_project: 'https://aryaprabhudesai.netlify.app/project/documentrank.jpg/'
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -71,15 +65,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
