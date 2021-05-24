@@ -1,20 +1,18 @@
 ---
-title: "Automatic Short Answer Grading using Siamese Bidirectional LSTM Based Regression"
+title: "Generation of Hindi Word Embeddings and Their Utilization in Ranking Documents Using Negative Sampling Architecture, t-SNE Visualization and TF-IDF Based Weighted Average of Vectors"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Ta N. B. Duong
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
 
-date: "2019-12-13T00:00:00Z"
-doi: "2020-10-15"
+date: "2018-12-17T00:00:00Z"
+doi: "2019-05-21"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -26,10 +24,10 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2019 IEEE International Conference on Engineering, Technology and Education (TALE)*
-publication_short: In *IEEE TALE*
+publication: In *International Conference on Innovations in Bio-Inspired Computing and Applications*
+publication_short: In *IBICA 2018*
 
-abstract: Automatic student assessment plays an important role in education - it provides instant feedback to learners, and at the same time reduces tedious grading workload for instructors. In this paper, we investigate new machine learning techniques for automatic short answer grading (ASAG). The ASAG problem mainly involves assessing short, natural language responses to given questions automatically. While current research in the field has focused either on feature engineering or deep learning, we propose a new approach which combines the advantages of both. More specifically, we propose a Siamese Bidirectional LSTM Neural Network based Regressor in conjunction with handcrafted features for ASAG. Extensive experiments using the popular Mohler ASAG dataset which contains training samples from Computer Science courses, have demonstrated that our system, despite being simpler, provides similar or better overall performance in terms of grading accuracy (measured with Pearson r, mean absolute error and root mean squared error) compared to state-of-the-art results.
+abstract: Hindi is the official language of India and has over 500 million speakers worldwide. Being a dominant language with a widespread impact, implies the need for development of technologies that cater to its native speakers. In this paper, a text mining based information retrieval model has been developed to generate Hindi word embeddings and their application ranking documents in order of relevance to an input query. Word embeddings are multi-dimensional vectors that can be created by utilizing the linguistic context of words in a large corpus. To generate the embeddings, a corpus was created from the Hindi Wikipedia dump, on which the skip-gram approach was applied using a neural network based negative sampling-architecture. The weighted average of each word embedding along with its tf-idf score generated the embeddings for each individual document. The cosine-similarity was then calculated between each document vector and the query vector. Using these similarity scores, the documents were ranked in descending order of relevance to the query. Highly relevant rankings were obtained in response to a query input. The results of the model were visualized using the t-SNE visualization method. The accuracy of this method proves that in the process of conversion of words to numeric vectors, the semantic context of the words was preserved.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -44,11 +42,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9226026'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-16681-6_28'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://aryaprabhudesai.netlify.app/project/asag.jpg/'
+url_project: 'https://aryaprabhudesai.netlify.app/project/documentrank.jpg/'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -56,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -66,7 +64,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- ASAG
+- DocumentRank
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
