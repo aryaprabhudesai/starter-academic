@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Data and AI Specialist
-    company: Signpost India
+    company: [Signpost India](https://www.signpostindia.com/)
     company_url: ''
     company_logo: ''
     location: Mumbai, India
