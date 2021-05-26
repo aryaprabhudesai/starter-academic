@@ -62,9 +62,7 @@ email: ""
 highlight_name: false
 ---
 
-I am an incoming Masters student at [UC San Diego](https://www.ucsd.edu/), where I will be studying Computer Science with a specialisation in Artificial Intelligence.
-
-I completed my Bachelor's Degree (B.Tech) with Honors in Computer Engineering at the [College of Engineering Pune, India](https://www.coep.org.in/), in 2020. I was felicitated as the Computer Engineering department Gold Medallist and ranked 1st in the Institute among 750+ students at [commencement](https://www.coep.org.in/content/graduationceremonyofthefourteenthbatchofengineersheldonthursday29thoctober). 
+I am an incoming Masters student at [UC San Diego](https://www.ucsd.edu/), where I will be studying Computer Science with a specialisation in Artificial Intelligence. I completed my Bachelor's Degree (B.Tech) with Honors in Computer Engineering at the [College of Engineering Pune, India](https://www.coep.org.in/), in 2020. I was felicitated as the Computer Engineering department Gold Medallist and ranked 1st in the Institute among 750+ students at [commencement](https://www.coep.org.in/content/graduationceremonyofthefourteenthbatchofengineersheldonthursday29thoctober). 
 
 I am passionate about Deep Learning and have undertaken multiple research internships focused on its application to Natural Language Processing and Computer Vision systems. In particular, my project on [Ranking Hindi Documents using Deep Learning](https://aryaprabhudesai.netlify.app/publication/docrank/) bolstered my interest in the application of NLP to regional languages.
 
