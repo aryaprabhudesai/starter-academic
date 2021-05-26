@@ -66,6 +66,6 @@ I am an incoming Masters student at [UC San Diego](https://www.ucsd.edu/), where
 
 I completed my Bachelor's Degree (B.Tech) with Honors in Computer Engineering at the [College of Engineering Pune, India](https://www.coep.org.in/), in 2020. I was felicitated as the Computer Engineering department Gold Medallist and ranked 1st in the Institute among 750+ students (from various engineering departments) at [commencement](https://www.coep.org.in/content/graduationceremonyofthefourteenthbatchofengineersheldonthursday29thoctober). 
 
-I am passionate about Deep Learning, and have undertaken multiple research internships focused on its application to Natural Language Processing and Computer Vision systems. In particular, my project on [Generation of Hindi Word Embeddings](https://aryaprabhudesai.netlify.app/project/documentrank.jpg/')helped develop my interest in the implementation of DL-based NLP systems for regional languages.
+I am passionate about Deep Learning and have undertaken multiple research internships focused on its application to Natural Language Processing and Computer Vision systems. In particular, my project on [Generation of Hindi Word Embeddings](https://aryaprabhudesai.netlify.app/project/documentrank.jpg/' ) bolstered my interest in the application of NLP to regional languages.
 
 Outside of work, I am a history, geography, political science, paperbacks, and Indian culture enthusiast who has recently discovered her fondness for yoga and hiking. 
