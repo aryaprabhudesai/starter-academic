@@ -66,4 +66,6 @@ I am an incoming Masters student at [UC San Diego](https://www.ucsd.edu/), where
 
 I completed my Bachelor's Degree (B.Tech) with Honors in Computer Engineering at the [College of Engineering Pune, India](https://www.coep.org.in/), in 2020. I was felicitated as the Computer Engineering department Gold Medallist and ranked 1st in the Institute among 750+ students (from various engineering departments) at [commencement](https://www.coep.org.in/content/graduationceremonyofthefourteenthbatchofengineersheldonthursday29thoctober). 
 
+My research interests lie broadly in the domains of Deep Learning and Machine Learning. I have undertaken multiple research internships where I have worked on the application of Deep Learning in Natural Language Processing and Computer Vision.
+
 Outside of work, I am a history, geography, political science, paperbacks, and Indian culture enthusiast who has recently discovered her fondness for yoga and hiking. 
