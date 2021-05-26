@@ -21,7 +21,7 @@ interests:
 - Artificial Intelligence
 - Deep Learning
 - Natural Language Processing
-- Facial Recognition Systems
+- Face Recognition Systems
 
 # Education to show in About widget
 education:
