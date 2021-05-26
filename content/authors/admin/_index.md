@@ -64,6 +64,6 @@ highlight_name: false
 
 I am an incoming Masters student at UC San Diego, where I will be studying Computer Science with a specialisation in Artificial Intelligence.
 
-I completed my Bachelor's Degree (B.Tech) with Honours in Computer Engineering at College of Engineering Pune, India in 2020. On graduation I was felicitated as the Computer Engineering branch Gold Medallist and the Institute Topper among all 10 engineering departments. 
+I completed my Bachelor's Degree (B.Tech) with Honours in Computer Engineering at the [College of Engineering Pune, India](https://coep.org.in/), in 2020. On graduation, I was felicitated as the Computer Engineering department Gold Medallist and ranked 1st in the Institute among 750+ students. 
 
-Outside of work, I am a history, geography, political science, paperbacks, and Indian culture enthusisast who has recently discovered her fondness for yoga and hiking. 
+Outside of work, I am a history, geography, political science, paperbacks, and Indian culture enthusiast who has recently discovered her fondness for yoga and hiking. 
