@@ -6,7 +6,7 @@ title: Arya Prabhudesai
 superuser: true
 
 # Role/position/tagline
-role: Incoming MS CS student
+role: MS CSE student
 
 # Organizations/Affiliations to show in About widget
 organizations:
