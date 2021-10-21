@@ -28,10 +28,11 @@ experience:
     company_logo: ''
     location: Mumbai, India
     date_start: '2020-12-01'
-    date_end: ''2021-08-31
+    date_end: ''2021-08-31'
     description: |2-
         
-        * Led the AI team to develop end-to-end systems for data mining and data analytics applications.
+        * Led the AI team to develop end-to-end systems for data mining and data analytics applications. Utilised tools like Dec 2020 - Aug 2021 BigQuery, Google Data Studio, siren.io, and KNIME to preprocess, visualise, and train machine learning models on the data.
+        * Designed supervised and unsupervised models in Python for event extraction from textual data.
         
   - title: Artificial Intelligence Research Intern
     company: Bharatrath, India
