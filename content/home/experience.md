@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: NLP Intern
+    company: Brain Technologies Inc.
+    company_url: ''
+    company_logo: ''
+    location: San Mateo, California
+    date_start: '2022-06-13'
+    date_end: '2022-09-02'
+    description: |2-
+        
+        * Collaborating to develop intelligent NLP-based applications like road trip planner, concierge services, and parenting assistant bots for the Natural.ai generative interface app.  
+        * Fine-tuning LLMs like GPT3 in the backend and implementing prompt engineering techniques like chain of thought, few-shot, and zero-shot learning for NLP sub-tasks. 
+
+        
   - title: Data and AI Specialist
     company: Signpost India
     company_url: ''
